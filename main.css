@@ -1,0 +1,45 @@
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.box-1 {
+    background-color: #F7F7F7;
+    margin: 0 100px;
+}
+
+.inline {
+    display: inline;
+    color: #B3B3B3;
+}
+
+.login {
+    display: inline;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row;
+}
+
+.text_decoration {
+    text-decoration: none;
+    color: #B3B3B3;
+}
+
+.logotip {
+    border-radius: 50%;
+}
+
+.organic-farm {
+    width: 100%;
+}
+
+.money {
+    display: inline;
+    border: 1px solid #93AB4F;
+    /* display: flex;
+    align-items:first baseline;
+    flex-direction: row; */
+}
+
+
