@@ -1,0 +1,96 @@
+.container {
+    margin: 0 100px;
+}
+
+.box-6 {
+    background-color: rgb(201, 201, 194);
+}
+
+.item {
+    display: inline;
+}
+
+.box-1 {
+    display: inline;
+    position: relative;
+    left: 390px;
+}
+
+.login {
+    display: inline;
+    margin: 0 20px;
+}
+
+.box-2 {
+    margin: 50px 0;
+}
+
+.u {
+    width: 40px;
+    height: 50px;
+}
+
+.stora {
+    display: inline;
+    /* position: relative;
+    top: -20px; */
+}
+
+.box-3 {
+    display: inline;
+    border: 1px solid rgb(46, 46, 3);
+    position: relative;
+    left: 900px;
+}
+
+.box-4 {
+    /* border: 1px solid rgb(216, 213, 213); */
+    /* background-color: rgb(221, 221, 212); */
+    margin: 40px 0;
+}
+
+.blue {
+    display: inline;
+    width: 500px;
+    padding: 20px 20px;
+    background-color: blue;
+    color: white;
+}
+
+.item-1 {
+    display: inline;
+    width: 500px;
+    padding: 20px 20px;
+    color: rgb(83, 83, 79);
+}
+
+.large-img {
+    width: 100%;
+}
+
+.box-5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.item-2 {
+    /* height: 300px; */
+    color: white;
+}
+
+.t1 {
+    background-color: blue;
+}
+
+.t2 {
+    background-color: rgb(139, 139, 12);
+}
+
+.t3 {
+    background-color: brown;
+}
+
+.t4 {
+    background-color: rgb(4, 87, 87);
+}
